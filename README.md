@@ -71,7 +71,7 @@ while True:
     print("MAC Address:", mac)
 ~~~
 ## OUPUT - ARP
-<img width="1600" height="338" alt="Cn exp02c1" src="https://github.com/user-attachments/assets/6aa44a44-02eb-4273-82aa-0670ae6efb6a" />
+
 <img width="1600" height="335" alt="CN exp02c" src="https://github.com/user-attachments/assets/7c303704-652c-4d27-993a-c9b791adf5bc" />
 
 ## PROGRAM - RARP
